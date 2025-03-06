@@ -8,24 +8,24 @@ This document breaks down the assignment into **small, manageable goals**, helpi
 ## 1. Project Setup & Initial Configuration
 
 ### Backend Setup (Node.js, Express, MongoDB)
-- [ ] Initialize Node.js project: `npm init -y`
-- [ ] Install Express.js: `npm install express`
-- [ ] Install Mongoose: `npm install mongoose`
+- [x] Initialize Node.js project: `npm init -y`
+- [x] Install Express.js: `npm install express`
+- [x] Install Mongoose: `npm install mongoose`
 - [ ] Create `server.js` to set up basic Express server
 - [ ] Connect to MongoDB (local/Atlas)
 - [ ] Create `.gitignore` for `node_modules`, `.env`, etc.
 
 ### Frontend Setup (Next.js, Tailwind CSS, ShadcnUI)
-- [ ] Create Next.js project: `npx create-next-app@latest frontend`
-- [ ] Install Tailwind CSS & configure
+- [x] Create Next.js project: `npx create-next-app@latest frontend`
+- [x] Install Tailwind CSS & configure
 - [ ] Install ShadcnUI: `npx shadcn-ui@latest init`
 - [ ] Add required ShadcnUI components:  
     `npx shadcn-ui@latest add button table dialog input`
 
 ### Project Structure
-- [ ] Create project root: `fullstack-dashboard`
-- [ ] Move `frontend` into root
-- [ ] Create `backend` folder for server files
+- [x] Create project root: `fullstack-dashboard`
+- [x] Move `frontend` into root
+- [x] Create `backend` folder for server files
 - [ ] Setup proper folder structure inside frontend & backend
 
 ### Environment Variables Setup
